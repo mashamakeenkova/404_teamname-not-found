@@ -1,0 +1,13 @@
+TODO: 
+-main features
+   -progress tracker
+   -current overview page 
+   -about page? 
+   -rewards (how?) 
+  --how to implement any of this hehh
+-design 
+   -colors
+   -fonts
+   -theme
+-how to database?
+-how to login/ user authentication? 
