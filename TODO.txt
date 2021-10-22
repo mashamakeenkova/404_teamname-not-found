@@ -1,13 +1,44 @@
-TODO: 
--main features
-   -progress tracker
-   -current overview page 
-   -about page? 
-   -rewards (how?) 
-  --how to implement any of this hehh
--design 
-   -colors
-   -fonts
-   -theme
--how to database?
--how to login/ user authentication? 
+BRAINSORMING: 
+persona (example brand) buikd our priduct towards a spcific persona --> add to pitch as a story 
+general infos: man, 50, 2 kids, recycles, aware and open minded (or not)
+full time working woman (Rachel, Louise, Patricia, Pia, Petra), 42, kids (wants to set a good example for her kids)
+"work on your own sustainability"  
+
+
+new idea: 
+Sven , works 40 percent, two girls (8 and 10 years old), loves his job in HR, wants to go to the gym, like zumba and yoga, likes bakiing, 
+active in his comunity, parent that goes along on school trips
+recources: surface, i phone, not tech savy, has a smartphone and steady internet connection (also on the go)
+sustainability: drives his kids to school, drives to work, does not travel for work much, not a vegegtarian (neither are the kids), eats meat for 
+the kids, too nice to his kids, spends his wifes money on the kids toys, does the shopping (uses plastic bags, and pet bottles for water), throws gum
+out of car window, buys pet bottle every day, learns about climate change issues from his kids (who go to the climate srike), wants to change for the
+better and be a good example, print a lot at work, does not recycle pet (or anything frankly), buys take-out a lot, leaves his computer on whrn he 
+leaves for meetings, drinks too much cofee (does not use reusabe cups), leaves the lights on, adjusts the themostat for too hot and then opens the 
+window, keep yout email inbox clean, realize he has room for improvement, but is missing specific ideas to improve, struggling to build consistent 
+and lasting sustainable habbits, lacks something to keep him acountable for this actions
+
+Rachel: gets coffe and a sandwitch wrapped in plastic every day, always stessed, eats meat, buys a lot of food, a lot of electronics (everything is 
+plugged in and on standby), shops a lot (many clothes), commute time, gym and indoor cycling fan, uses a lot of post its, prints motivational quotes,
+consumes a lot of import products, the app should serve as a sort of self improvement program for Rache, she's very competetive, wants to be in, wants
+to be successful 
+for the app: 
+suggestion box for the employees, everyone can put in ideas, which then get published on the main feed, company uber (coleagues car sharing), cycling
+points and public transportations points, enviromental events (bring your own cup teaparty, veggie brunch)
+
+
+FEATURE IDEAS: 
+-growing tree, with birds, and bugs
+-social media aspect 
+-trust your eomployees 
+-weekly newsletter, updates, notifications?
+-votings, idea-box 
+-threefold main page with different section 
+-stats
+-leaf design badges 
+-why this matters, how much has the company contrubuted 
+-my goals page (weekly updates), select your acrivity and focus 
+-rewards for challanges (free tea in your reusable cup)
+-circle progress bar in challange 
+-ticking off things
+-score board 
+-suggestion box, one idea published every week 
